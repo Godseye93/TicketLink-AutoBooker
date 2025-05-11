@@ -1,0 +1,9 @@
+# Python 가상환경
+venv/
+env/
+
+# 환경 변수 파일
+.env
+
+# VS Code 설정
+.vscode/
